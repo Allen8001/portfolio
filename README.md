@@ -1,7 +1,6 @@
 # Portfolio Website - Full Stack Next.js Application
 
 A modern, responsive portfolio website built with Next.js 14, featuring a complete admin dashboard for managing projects, authentication, and a beautiful user interface.
-![Uploading b3b74dd99974d16be729177b1bbd2550.PNG…]()
 
 ## 🚀 Features
 
