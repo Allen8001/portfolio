@@ -2,6 +2,8 @@
 
 A modern, responsive portfolio website built with Next.js 14, featuring a complete admin dashboard for managing projects, authentication, and a beautiful user interface.
 
+![Logo](image1.png)
+
 ## 🚀 Features
 
 - **Modern Tech Stack**: Next.js 14 with App Router, TypeScript, and Tailwind CSS
